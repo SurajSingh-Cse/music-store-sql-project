@@ -4,6 +4,15 @@
 
 This project involves analyzing a fictional music store database using SQL to uncover business insights related to customers, sales, and music genres. The focus is on applying core SQL concepts including joins, grouping, filtering, sorting, common table expressions (CTEs), and window functions.
 
+<img width="1287" height="752" alt="Screenshot 2025-07-10 101756" src="https://github.com/user-attachments/assets/8993faf5-0ec8-4837-8e39-a4c1e2b93aa5" />
+
+<img width="1902" height="666" alt="music store model creation" src="https://github.com/user-attachments/assets/a4d1c9e4-4d24-4163-a5cd-1c54f9bdba51" />
+
+<img width="1856" height="795" alt="Dashboard_image" src="https://github.com/user-attachments/assets/f125d3d8-b88f-41e9-9641-ce8dc592e3c7" />
+
+
+
+
 ---
 
 ## 🗃️ Dataset Structure
@@ -71,6 +80,10 @@ The dataset simulates a music store and includes the following tables:
 * `Suraj Final Report Music Sql.pdf` – Summary of insights
 * `SQL_Project_Presentation.pptx` – Final project presentation
 * `Dashboard_image.png` – Image of the final dashboard
+* `Music Store Data Analysis Dashboard.Xlsx` Excel file
+* `SQL Project instructions.pdf`- Project Instruction file
+* `Video of Dashboard.mp4` - video of Dashboard
+* `Suraj Music Sql Presentation.pdf` presentation of project
 
 ---
 
@@ -86,6 +99,7 @@ The dataset simulates a music store and includes the following tables:
 ## ✍️ Author
 
 **Suraj Singh**
+www.linkedin.com/in/singh-suraj-negi
 
 ---
 
