@@ -1,0 +1,60 @@
+customer_id,first_name,last_name,company,address,city,state,country,email,support_rep_id
+1,Lu­s,Gon ,Embraer ,Av ,S ,SP,Brazil,lu­sgon @gmail.com,3
+2,Leonie,K ,,Theodor-Heuss-Stra ,Stuttgart,,Germany,leoniek @gmail.com,5
+3,Fran ,Tremblay,,1498,Montr ,QC,Canada,fran tremblay@gmail.com,3
+4,Bj ,Hansen,,Ullev ,Oslo,,Norway,bj hansen@gmail.com,4
+5,Franti ,Wichterlov ,JetBrains ,Klanova ,Prague,,Czech ,franti wichterlov @gmail.com,4
+6,Helena,Hol ,,Rilsk ,Prague,,Czech ,helenahol @gmail.com,5
+7,Astrid,Gruber,,Rotenturmstra ,Vienne,,Austria,astridgruber@gmail.com,5
+8,Daan,Peeters,,Gr ,Brussels,,Belgium,daanpeeters@gmail.com,4
+9,Kara,Nielsen,,S ,Copenhagen,,Denmark,karanielsen@gmail.com,4
+10,Eduardo,Martins,Woodstock ,Rua ,S ,SP,Brazil,eduardomartins@gmail.com,4
+11,Alexandre,Rocha,Banco ,Av ,S ,SP,Brazil,alexandrerocha@gmail.com,5
+12,Roberto,Almeida,Riotur,Pra ,Rio ,RJ,Brazil,robertoalmeida@gmail.com,3
+13,Fernanda,Ramos,,Qe ,Bras ,DF,Brazil,fernandaramos@gmail.com,4
+14,Mark,Philips,Telus,8210,Edmonton,AB,Canada,markphilips@gmail.com,5
+15,Jennifer,Peterson,Rogers ,700,Vancouver,BC,Canada,jenniferpeterson@gmail.com,3
+16,Frank,Harris,Google ,1600,Mountain ,CA,USA,frankharris@gmail.com,4
+17,Jack,Smith,Microsoft ,1,Redmond,WA,USA,jacksmith@gmail.com,5
+18,Michelle,Brooks,,627,New ,NY,USA,michellebrooks@gmail.com,3
+19,Tim,Goyer,Apple ,1,Cupertino,CA,USA,timgoyer@gmail.com,3
+20,Dan,Miller,,541,Mountain ,CA,USA,danmiller@gmail.com,4
+21,Kathy,Chase,,801,Reno,NV,USA,kathychase@gmail.com,5
+22,Heather,Leacock,,120,Orlando,FL,USA,heatherleacock@gmail.com,4
+23,John,Gordon,,69,Boston,MA,USA,johngordon@gmail.com,4
+24,Frank,Ralston,,162,Chicago,IL,USA,frankralston@gmail.com,3
+25,Victor,Stevens,,319,Madison,WI,USA,victorstevens@gmail.com,5
+26,Richard,Cunningham,,2211,Fort ,TX,USA,richardcunningham@gmail.com,4
+27,Patrick,Gray,,1033,Tucson,AZ,USA,patrickgray@gmail.com,4
+28,Julia,Barnett,,302,Salt ,UT,USA,juliabarnett@gmail.com,5
+29,Robert,Brown,,796,Toronto,ON,Canada,robertbrown@gmail.com,3
+30,Edward,Francis,,230,Ottawa,ON,Canada,edwardfrancis@gmail.com,3
+31,Martha,Silk,,194A ,Halifax,NS,Canada,marthasilk@gmail.com,5
+32,Aaron,Mitchell,,696,Winnipeg,MB,Canada,aaronmitchell@gmail.com,4
+33,Ellie,Sullivan,,5112,Yellowknife,NT,Canada,elliesullivan@gmail.com,3
+34,Jo ,Fernandes,,Rua ,Lisbon,,Portugal,jo fernandes@gmail.com,4
+35,Madalena,Sampaio,,Rua ,Porto,,Portugal,madalenasampaio@gmail.com,4
+36,Hannah,Schneider,,Tauentzienstra ,Berlin,,Germany,hannahschneider@gmail.com,5
+37,Fynn,Zimmermann,,,Frankfurt,,Germany,fynnzimmermann@gmail.com,3
+38,Niklas,Schr ,,Barbarossastra ,Berlin,,Germany,niklasschr @gmail.com,3
+39,Camille,Bernard,,4,Paris,,France,camillebernard@gmail.com,4
+40,Dominique,Lefebvre,,8,Paris,,France,dominiquelefebvre@gmail.com,4
+41,Marc,Dubois,,11,Lyon,,France,marcdubois@gmail.com,5
+42,Wyatt,Girard,,9,Bordeaux,,France,wyattgirard@gmail.com,3
+43,Isabelle,Mercier,,68,Dijon,,France,isabellemercier@gmail.com,3
+44,Terhi,H ,,Porthaninkatu ,Helsinki,,Finland,terhih @gmail.com,3
+45,Ladislav,Kov ,,Erzs ,Budapest,,Hungary,ladislavkov @gmail.com,3
+46,Hugh,O ,,3,Dublin,Dublin,Ireland,hugho @gmail.com,3
+47,Lucas,Mancini,,Via ,Rome,RM,Italy,lucasmancini@gmail.com,5
+48,Johannes,Van ,,Lijnbaansgracht ,Amsterdam,VV,Netherlands,johannesvan @gmail.com,5
+49,Stanis ,W ,,Ordynacka ,Warsaw,,Poland,stanis w @gmail.com,4
+50,Enrique,Mu ,,C ,Madrid,,Spain,enriquemu @gmail.com,5
+51,Joakim,Johansson,,Celsiusg ,Stockholm,,Sweden,joakimjohansson@gmail.com,5
+52,Emma,Jones,,202,London,,United ,emmajones@gmail.com,3
+53,Phil,Hughes,,113,London,,United ,philhughes@gmail.com,3
+54,Steve,Murray,,110,Edinburgh ,,United ,stevemurray@gmail.com,5
+55,Mark,Taylor,,421,Sidney,NSW,Australia,marktaylor@gmail.com,4
+56,Diego,Guti ,,307,Buenos ,,Argentina,diegoguti @gmail.com,4
+57,Luis,Rojas,,Calle ,Santiago,,Chile,luisrojas@gmail.com,5
+58,Manoj,Pareek,,12,Delhi,,India,manojpareek@gmail.com,3
+59,Rishabh,Mishra,,3,Bangalore,,India,rishabhmishra@gmail.com,3

@@ -1,0 +1,615 @@
+﻿invoice_id,customer_id,invoice_date,billing_address,billing_city,billing_state,billing_country,total
+1,18,2017-01-03,627 Broadway,New York,NY,USA,16
+2,30,2017-01-03,230 Elgin Street,Ottawa,ON,Canada,10
+3,40,2017-01-05,8 Rue Hanovre,Paris,,France,2
+4,18,2017-01-06,627 Broadway,New York,NY,USA,8
+5,27,2017-01-07,1033 N Park Ave,Tucson,AZ,USA,17
+6,31,2017-01-10,194A Chain Lake Drive,Halifax,NS,Canada,2
+7,49,2017-01-12,Ordynacka 10,Warsaw,,Poland,11
+8,59,2017-01-13,3 Raj Bhavan Road,Bangalore,,India,10
+9,18,2017-01-18,627 Broadway,New York,NY,USA,9
+10,31,2017-01-18,194A Chain Lake Drive,Halifax,NS,Canada,2
+11,38,2017-01-20,Barbarossastrasse 19,Berlin,,Germany,11
+12,42,2017-01-21,9 Place Louis Barthou,Bordeaux,,France,4
+13,35,2017-01-22,Rua dos Campeoes Europeus de Viena 4350,Porto,,Portugal,1
+14,25,2017-01-23,319 N Frances Street,Madison,WI,USA,1
+15,44,2017-01-25,Porthaninkatu 9,Helsinki,,Finland,4
+16,1,2017-01-26,Av Brigadeiro Faria Lima 2170,Sao Jose dos Campos,SP,Brazil,9
+17,20,2017-01-28,541 Del Medio Avenue,Mountain View,CA,USA,11
+18,24,2017-02-02,162 E Superior Street,Chicago,IL,USA,5
+19,10,2017-02-06,Rua Dr Falcao Filho 155,Sao Paulo,SP,Brazil,7
+20,43,2017-02-06,68 Rue Jouvence,Dijon,,France,10
+21,9,2017-02-07,Sonder Boulevard 51,Copenhagen,,Denmark,9
+22,35,2017-02-08,Rua dos Campeoes Europeus de Viena 4350,Porto,,Portugal,2
+23,53,2017-02-09,113 Lupus St,London,,United Kingdom,10
+24,4,2017-02-10,Ullevalsveien 14,Oslo,,Norway,12
+25,39,2017-02-11,4 Rue Milton,Paris,,France,8
+26,55,2017-02-15,421 Bourke Street,Sidney,NSW,Australia,2
+27,35,2017-02-15,Rua dos Campeoes Europeus de Viena 4350,Porto,,Portugal,8
+28,12,2017-02-17,Praca Pio X 119,Rio de Janeiro,RJ,Brazil,3
+29,45,2017-02-17,Erzsebet krt 58,Budapest,,Hungary,6
+30,46,2017-02-18,3 Chatham Street,Dublin,Dublin,Ireland,11
+31,3,2017-02-21,1498 rue Belanger,Montreal,QC,Canada,20
+32,30,2017-02-21,230 Elgin Street,Ottawa,ON,Canada,13
+33,58,2017-02-21,12Community Centre,Delhi,,India,4
+34,33,2017-02-23,5112 48 Street,Yellowknife,NT,Canada,1
+35,34,2017-02-25,Rua da Assuncao 53,Lisbon,,Portugal,5
+36,51,2017-02-27,Celsiusg 9,Stockholm,,Sweden,7
+37,59,2017-03-05,3 Raj Bhavan Road,Bangalore,,India,10
+38,49,2017-03-05,Ordynacka 10,Warsaw,,Poland,7
+39,39,2017-03-12,4 Rue Milton,Paris,,France,8
+40,37,2017-03-13,Berger Strasse 10,Frankfurt,,Germany,10
+41,50,2017-03-17,C San Bernardo 85,Madrid,,Spain,8
+42,19,2017-03-18,1 Infinite Loop,Cupertino,CA,USA,9
+43,22,2017-03-19,120 S Orange Ave,Orlando,FL,USA,7
+44,21,2017-03-20,801 W 4th Street,Reno,NV,USA,12
+45,36,2017-03-24,Tauentzienstrasse 8,Berlin,,Germany,8
+46,4,2017-03-24,Ullevalsveien 14,Oslo,,Norway,11
+47,57,2017-03-25,Calle Lira 198,Santiago,,Chile,6
+48,44,2017-03-28,Porthaninkatu 9,Helsinki,,Finland,4
+49,10,2017-03-30,Rua Dr Falcao Filho 155,Sao Paulo,SP,Brazil,5
+50,18,2017-04-02,627 Broadway,New York,NY,USA,7
+51,19,2017-04-03,1 Infinite Loop,Cupertino,CA,USA,8
+52,19,2017-04-11,1 Infinite Loop,Cupertino,CA,USA,12
+53,43,2017-04-12,68 Rue Jouvence,Dijon,,France,3
+54,26,2017-04-13,2211 W Berry Street,Fort Worth,TX,USA,18
+55,33,2017-04-16,5112 48 Street,Yellowknife,NT,Canada,10
+56,34,2017-04-22,Rua da Assuncao 53,Lisbon,,Portugal,17
+57,19,2017-04-22,1 Infinite Loop,Cupertino,CA,USA,1
+58,9,2017-04-23,Sonder Boulevard 51,Copenhagen,,Denmark,6
+59,38,2017-04-24,Barbarossastrasse 19,Berlin,,Germany,11
+60,15,2017-04-24,700 W Pender Street,Vancouver,BC,Canada,8
+61,59,2017-04-24,3 Raj Bhavan Road,Bangalore,,India,12
+62,9,2017-04-25,Sonder Boulevard 51,Copenhagen,,Denmark,3
+63,31,2017-04-25,194A Chain Lake Drive,Halifax,NS,Canada,6
+64,52,2017-04-25,202 Hoxton Street,London,,United Kingdom,13
+65,47,2017-04-26,Via Degli Scipioni 43,Rome,RM,Italy,2
+66,16,2017-04-29,1600 Amphitheatre Parkway,Mountain View,CA,USA,7
+67,39,2017-05-01,4 Rue Milton,Paris,,France,11
+68,57,2017-05-01,Calle Lira 198,Santiago,,Chile,11
+69,2,2017-05-09,Theodor-Heuss-Strasse 34,Stuttgart,,Germany,14
+70,31,2017-05-13,194A Chain Lake Drive,Halifax,NS,Canada,1
+71,3,2017-05-17,1498 rue Belanger,Montreal,QC,Canada,17
+72,47,2017-05-18,Via Degli Scipioni 43,Rome,RM,Italy,3
+73,13,2017-05-18,Qe 7 Bloco G,Brasilia,DF,Brazil,15
+74,26,2017-05-18,2211 W Berry Street,Fort Worth,TX,USA,2
+75,16,2017-05-24,1600 Amphitheatre Parkway,Mountain View,CA,USA,4
+76,40,2017-05-26,8 Rue Hanovre,Paris,,France,13
+77,1,2017-05-28,Av Brigadeiro Faria Lima 2170,Sao Jose dos Campos,SP,Brazil,6
+78,5,2017-05-29,Klanova 9/506,Prague,,Czech Republic,9
+79,36,2017-06-08,Tauentzienstrasse 8,Berlin,,Germany,14
+80,13,2017-06-08,Qe 7 Bloco G,Brasilia,DF,Brazil,1
+81,4,2017-06-12,Ullevalsveien 14,Oslo,,Norway,6
+82,58,2017-06-13,12Community Centre,Delhi,,India,7
+83,22,2017-06-15,120 S Orange Ave,Orlando,FL,USA,4
+84,48,2017-06-15,Lijnbaansgracht 120bg,Amsterdam,VV,Netherlands,12
+85,33,2017-06-17,5112 48 Street,Yellowknife,NT,Canada,5
+86,46,2017-06-18,3 Chatham Street,Dublin,Dublin,Ireland,1
+87,30,2017-06-20,230 Elgin Street,Ottawa,ON,Canada,8
+88,31,2017-06-21,194A Chain Lake Drive,Halifax,NS,Canada,5
+89,21,2017-06-23,801 W 4th Street,Reno,NV,USA,2
+90,55,2017-06-28,421 Bourke Street,Sidney,NSW,Australia,11
+91,36,2017-07-01,Tauentzienstrasse 8,Berlin,,Germany,11
+92,32,2017-07-02,696 Osborne Street,Winnipeg,MB,Canada,20
+93,42,2017-07-05,9 Place Louis Barthou,Bordeaux,,France,10
+94,51,2017-07-08,Celsiusg 9,Stockholm,,Sweden,8
+95,45,2017-07-10,Erzsebet krt 58,Budapest,,Hungary,11
+96,53,2017-07-17,113 Lupus St,London,,United Kingdom,6
+97,8,2017-07-22,Gretrystraat 63,Brussels,,Belgium,6
+98,17,2017-07-23,1 Microsoft Way,Redmond,WA,USA,10
+99,55,2017-07-28,421 Bourke Street,Sidney,NSW,Australia,18
+100,58,2017-07-31,12Community Centre,Delhi,,India,6
+101,20,2017-07-31,541 Del Medio Avenue,Mountain View,CA,USA,4
+102,8,2017-08-02,Gretrystraat 63,Brussels,,Belgium,10
+103,39,2017-08-03,4 Rue Milton,Paris,,France,6
+104,4,2017-08-06,Ullevalsveien 14,Oslo,,Norway,2
+105,31,2017-08-12,194A Chain Lake Drive,Halifax,NS,Canada,8
+106,54,2017-08-19,110 Raeburn Pl,Edinburgh ,,United Kingdom,8
+107,32,2017-08-21,696 Osborne Street,Winnipeg,MB,Canada,11
+108,30,2017-08-27,230 Elgin Street,Ottawa,ON,Canada,5
+109,22,2017-08-29,120 S Orange Ave,Orlando,FL,USA,11
+110,15,2017-08-29,700 W Pender Street,Vancouver,BC,Canada,6
+111,13,2017-08-30,Qe 7 Bloco G,Brasilia,DF,Brazil,5
+112,6,2017-08-31,Rilska 3174/6,Prague,,Czech Republic,17
+113,13,2017-09-01,Qe 7 Bloco G,Brasilia,DF,Brazil,10
+114,12,2017-09-05,Praca Pio X 119,Rio de Janeiro,RJ,Brazil,17
+115,50,2017-09-08,C San Bernardo 85,Madrid,,Spain,9
+116,6,2017-09-08,Rilska 3174/6,Prague,,Czech Republic,11
+117,44,2017-09-10,Porthaninkatu 9,Helsinki,,Finland,11
+118,28,2017-09-10,302 S 700 E,Salt Lake City,UT,USA,1
+119,5,2017-09-12,Klanova 9/506,Prague,,Czech Republic,2
+120,29,2017-09-19,796 Dundas Street West,Toronto,ON,Canada,6
+121,59,2017-09-20,3 Raj Bhavan Road,Bangalore,,India,9
+122,9,2017-09-21,Sonder Boulevard 51,Copenhagen,,Denmark,5
+123,7,2017-09-23,Rotenturmstrasse 4 1010 Innere Stadt,Vienne,,Austria,12
+124,8,2017-09-25,Gretrystraat 63,Brussels,,Belgium,6
+125,3,2017-09-29,1498 rue Belanger,Montreal,QC,Canada,10
+126,32,2017-10-07,696 Osborne Street,Winnipeg,MB,Canada,4
+127,35,2017-10-08,Rua dos Campeoes Europeus de Viena 4350,Porto,,Portugal,11
+128,17,2017-10-12,1 Microsoft Way,Redmond,WA,USA,7
+129,17,2017-10-16,1 Microsoft Way,Redmond,WA,USA,11
+130,13,2017-10-19,Qe 7 Bloco G,Brasilia,DF,Brazil,4
+131,2,2017-10-21,Theodor-Heuss-Strasse 34,Stuttgart,,Germany,3
+132,14,2017-10-22,8210 111 ST NW,Edmonton,AB,Canada,2
+133,35,2017-10-22,Rua dos Campeoes Europeus de Viena 4350,Porto,,Portugal,10
+134,2,2017-10-23,Theodor-Heuss-Strasse 34,Stuttgart,,Germany,8
+135,11,2017-10-25,Av Paulista 2022,Sao Paulo,SP,Brazil,3
+136,33,2017-10-29,5112 48 Street,Yellowknife,NT,Canada,4
+137,34,2017-10-29,Rua da Assuncao 53,Lisbon,,Portugal,2
+138,33,2017-10-30,5112 48 Street,Yellowknife,NT,Canada,11
+139,23,2017-11-03,69 Salem Street,Boston,MA,USA,5
+140,58,2017-11-06,12Community Centre,Delhi,,India,8
+141,45,2017-11-07,Erzsebet krt 58,Budapest,,Hungary,18
+142,15,2017-11-10,700 W Pender Street,Vancouver,BC,Canada,15
+143,25,2017-11-10,319 N Frances Street,Madison,WI,USA,5
+144,33,2017-11-18,5112 48 Street,Yellowknife,NT,Canada,3
+145,28,2017-11-22,302 S 700 E,Salt Lake City,UT,USA,5
+146,58,2017-11-22,12Community Centre,Delhi,,India,13
+147,19,2017-11-28,1 Infinite Loop,Cupertino,CA,USA,5
+148,42,2017-11-30,9 Place Louis Barthou,Bordeaux,,France,9
+149,1,2017-11-30,Av Brigadeiro Faria Lima 2170,Sao Jose dos Campos,SP,Brazil,9
+150,22,2017-12-01,120 S Orange Ave,Orlando,FL,USA,3
+151,35,2017-12-06,Rua dos Campeoes Europeus de Viena 4350,Porto,,Portugal,3
+152,12,2017-12-12,Praca Pio X 119,Rio de Janeiro,RJ,Brazil,6
+153,1,2017-12-14,Av Brigadeiro Faria Lima 2170,Sao Jose dos Campos,SP,Brazil,14
+154,39,2017-12-17,4 Rue Milton,Paris,,France,3
+155,59,2018-01-02,3 Raj Bhavan Road,Bangalore,,India,9
+156,10,2018-01-03,Rua Dr Falcao Filho 155,Sao Paulo,SP,Brazil,11
+157,57,2018-01-04,Calle Lira 198,Santiago,,Chile,1
+158,57,2018-01-07,Calle Lira 198,Santiago,,Chile,6
+159,20,2018-01-08,541 Del Medio Avenue,Mountain View,CA,USA,6
+160,41,2018-01-09,11 Place Bellecour,Lyon,,France,9
+161,24,2018-01-13,162 E Superior Street,Chicago,IL,USA,8
+162,2,2018-01-15,Theodor-Heuss-Strasse 34,Stuttgart,,Germany,9
+163,6,2018-01-16,Rilska 3174/6,Prague,,Czech Republic,9
+164,49,2018-01-20,Ordynacka 10,Warsaw,,Poland,4
+165,41,2018-01-21,11 Place Bellecour,Lyon,,France,8
+166,17,2018-01-21,1 Microsoft Way,Redmond,WA,USA,10
+167,21,2018-01-25,801 W 4th Street,Reno,NV,USA,6
+168,47,2018-01-27,Via Degli Scipioni 43,Rome,RM,Italy,6
+169,21,2018-01-28,801 W 4th Street,Reno,NV,USA,9
+170,45,2018-01-28,Erzsebet krt 58,Budapest,,Hungary,10
+171,53,2018-01-30,113 Lupus St,London,,United Kingdom,13
+172,33,2018-01-31,5112 48 Street,Yellowknife,NT,Canada,8
+173,5,2018-01-31,Klanova 9/506,Prague,,Czech Republic,11
+174,48,2018-01-31,Lijnbaansgracht 120bg,Amsterdam,VV,Netherlands,7
+175,39,2018-01-31,4 Rue Milton,Paris,,France,18
+176,46,2018-01-31,3 Chatham Street,Dublin,Dublin,Ireland,7
+177,47,2018-02-01,Via Degli Scipioni 43,Rome,RM,Italy,2
+178,9,2018-02-02,Sonder Boulevard 51,Copenhagen,,Denmark,3
+179,25,2018-02-03,319 N Frances Street,Madison,WI,USA,10
+180,46,2018-02-05,3 Chatham Street,Dublin,Dublin,Ireland,10
+181,45,2018-02-06,Erzsebet krt 58,Budapest,,Hungary,7
+182,1,2018-02-07,Av Brigadeiro Faria Lima 2170,Sao Jose dos Campos,SP,Brazil,6
+183,42,2018-02-09,9 Place Louis Barthou,Bordeaux,,France,24
+184,1,2018-02-09,Av Brigadeiro Faria Lima 2170,Sao Jose dos Campos,SP,Brazil,1
+185,21,2018-02-10,801 W 4th Street,Reno,NV,USA,9
+186,11,2018-02-10,Av Paulista 2022,Sao Paulo,SP,Brazil,3
+187,18,2018-02-18,627 Broadway,New York,NY,USA,7
+188,13,2018-02-20,Qe 7 Bloco G,Brasilia,DF,Brazil,11
+189,13,2018-02-21,Qe 7 Bloco G,Brasilia,DF,Brazil,4
+190,51,2018-02-21,Celsiusg 9,Stockholm,,Sweden,5
+191,51,2018-02-22,Celsiusg 9,Stockholm,,Sweden,4
+192,28,2018-02-25,302 S 700 E,Salt Lake City,UT,USA,9
+193,41,2018-02-26,11 Place Bellecour,Lyon,,France,2
+194,34,2018-02-27,Rua da Assuncao 53,Lisbon,,Portugal,1
+195,27,2018-03-02,1033 N Park Ave,Tucson,AZ,USA,11
+196,37,2018-03-02,Berger Strasse 10,Frankfurt,,Germany,10
+197,46,2018-03-05,3 Chatham Street,Dublin,Dublin,Ireland,11
+198,13,2018-03-05,Qe 7 Bloco G,Brasilia,DF,Brazil,11
+199,20,2018-03-08,541 Del Medio Avenue,Mountain View,CA,USA,3
+200,24,2018-03-08,162 E Superior Street,Chicago,IL,USA,8
+201,39,2018-03-11,4 Rue Milton,Paris,,France,12
+202,25,2018-03-13,319 N Frances Street,Madison,WI,USA,2
+203,38,2018-03-16,Barbarossastrasse 19,Berlin,,Germany,10
+204,20,2018-03-17,541 Del Medio Avenue,Mountain View,CA,USA,11
+205,4,2018-03-20,Ullevalsveien 14,Oslo,,Norway,10
+206,11,2018-03-21,Av Paulista 2022,Sao Paulo,SP,Brazil,5
+207,17,2018-03-21,1 Microsoft Way,Redmond,WA,USA,4
+208,4,2018-03-22,Ullevalsveien 14,Oslo,,Norway,6
+209,27,2018-03-25,1033 N Park Ave,Tucson,AZ,USA,4
+210,2,2018-03-25,Theodor-Heuss-Strasse 34,Stuttgart,,Germany,11
+211,51,2018-03-26,Celsiusg 9,Stockholm,,Sweden,9
+212,45,2018-03-31,Erzsebet krt 58,Budapest,,Hungary,12
+213,53,2018-04-01,113 Lupus St,London,,United Kingdom,11
+214,57,2018-04-03,Calle Lira 198,Santiago,,Chile,5
+215,26,2018-04-04,2211 W Berry Street,Fort Worth,TX,USA,2
+216,49,2018-04-14,Ordynacka 10,Warsaw,,Poland,5
+217,27,2018-04-17,1033 N Park Ave,Tucson,AZ,USA,10
+218,56,2018-04-19,307 Macacha Guemes,Buenos Aires,,Argentina,9
+219,20,2018-04-21,541 Del Medio Avenue,Mountain View,CA,USA,3
+220,59,2018-04-25,3 Raj Bhavan Road,Bangalore,,India,9
+221,35,2018-04-25,Rua dos Campeoes Europeus de Viena 4350,Porto,,Portugal,8
+222,2,2018-04-29,Theodor-Heuss-Strasse 34,Stuttgart,,Germany,2
+223,1,2018-05-04,Av Brigadeiro Faria Lima 2170,Sao Jose dos Campos,SP,Brazil,18
+224,34,2018-05-06,Rua da Assuncao 53,Lisbon,,Portugal,10
+225,7,2018-05-08,Rotenturmstrasse 4 1010 Innere Stadt,Vienne,,Austria,6
+226,42,2018-05-12,9 Place Louis Barthou,Bordeaux,,France,11
+227,52,2018-05-16,202 Hoxton Street,London,,United Kingdom,10
+228,57,2018-05-16,Calle Lira 198,Santiago,,Chile,4
+229,15,2018-05-19,700 W Pender Street,Vancouver,BC,Canada,3
+230,54,2018-05-21,110 Raeburn Pl,Edinburgh ,,United Kingdom,8
+231,19,2018-05-27,1 Infinite Loop,Cupertino,CA,USA,3
+232,57,2018-05-29,Calle Lira 198,Santiago,,Chile,4
+233,14,2018-06-01,8210 111 ST NW,Edmonton,AB,Canada,6
+234,36,2018-06-01,Tauentzienstrasse 8,Berlin,,Germany,1
+235,5,2018-06-06,Klanova 9/506,Prague,,Czech Republic,7
+236,35,2018-06-08,Rua dos Campeoes Europeus de Viena 4350,Porto,,Portugal,3
+237,52,2018-06-13,202 Hoxton Street,London,,United Kingdom,16
+238,46,2018-06-14,3 Chatham Street,Dublin,Dublin,Ireland,10
+239,38,2018-06-16,Barbarossastrasse 19,Berlin,,Germany,16
+240,10,2018-06-17,Rua Dr Falcao Filho 155,Sao Paulo,SP,Brazil,3
+241,45,2018-06-18,Erzsebet krt 58,Budapest,,Hungary,2
+242,36,2018-06-18,Tauentzienstrasse 8,Berlin,,Germany,10
+243,6,2018-06-23,Rilska 3174/6,Prague,,Czech Republic,11
+244,53,2018-06-23,113 Lupus St,London,,United Kingdom,5
+245,20,2018-06-30,541 Del Medio Avenue,Mountain View,CA,USA,3
+246,58,2018-07-12,12Community Centre,Delhi,,India,9
+247,27,2018-07-12,1033 N Park Ave,Tucson,AZ,USA,11
+248,3,2018-07-13,1498 rue Belanger,Montreal,QC,Canada,7
+249,12,2018-07-14,Praca Pio X 119,Rio de Janeiro,RJ,Brazil,2
+250,23,2018-07-20,69 Salem Street,Boston,MA,USA,11
+251,7,2018-07-20,Rotenturmstrasse 4 1010 Innere Stadt,Vienne,,Austria,7
+252,44,2018-07-25,Porthaninkatu 9,Helsinki,,Finland,8
+253,8,2018-07-29,Gretrystraat 63,Brussels,,Belgium,12
+254,57,2018-07-30,Calle Lira 198,Santiago,,Chile,10
+255,46,2018-07-31,3 Chatham Street,Dublin,Dublin,Ireland,4
+256,13,2018-07-31,Qe 7 Bloco G,Brasilia,DF,Brazil,5
+257,16,2018-08-01,1600 Amphitheatre Parkway,Mountain View,CA,USA,11
+258,48,2018-08-02,Lijnbaansgracht 120bg,Amsterdam,VV,Netherlands,1
+259,38,2018-08-03,Barbarossastrasse 19,Berlin,,Germany,7
+260,10,2018-08-04,Rua Dr Falcao Filho 155,Sao Paulo,SP,Brazil,8
+261,49,2018-08-06,Ordynacka 10,Warsaw,,Poland,9
+262,3,2018-08-09,1498 rue Belanger,Montreal,QC,Canada,8
+263,36,2018-08-13,Tauentzienstrasse 8,Berlin,,Germany,5
+264,38,2018-08-15,Barbarossastrasse 19,Berlin,,Germany,1
+265,52,2018-08-18,202 Hoxton Street,London,,United Kingdom,7
+266,44,2018-08-22,Porthaninkatu 9,Helsinki,,Finland,6
+267,9,2018-08-22,Sonder Boulevard 51,Copenhagen,,Denmark,2
+268,16,2018-08-23,1600 Amphitheatre Parkway,Mountain View,CA,USA,11
+269,43,2018-08-26,68 Rue Jouvence,Dijon,,France,1
+270,1,2018-08-27,Av Brigadeiro Faria Lima 2170,Sao Jose dos Campos,SP,Brazil,11
+271,47,2018-08-30,Via Degli Scipioni 43,Rome,RM,Italy,11
+272,4,2018-08-30,Ullevalsveien 14,Oslo,,Norway,9
+273,37,2018-09-02,Berger Strasse 10,Frankfurt,,Germany,17
+274,26,2018-09-04,2211 W Berry Street,Fort Worth,TX,USA,5
+275,6,2018-09-06,Rilska 3174/6,Prague,,Czech Republic,8
+276,22,2018-09-07,120 S Orange Ave,Orlando,FL,USA,19
+277,53,2018-09-10,113 Lupus St,London,,United Kingdom,5
+278,22,2018-09-23,120 S Orange Ave,Orlando,FL,USA,3
+279,41,2018-10-01,11 Place Bellecour,Lyon,,France,5
+280,6,2018-10-02,Rilska 3174/6,Prague,,Czech Republic,11
+281,50,2018-10-06,C San Bernardo 85,Madrid,,Spain,14
+282,20,2018-10-11,541 Del Medio Avenue,Mountain View,CA,USA,17
+283,48,2018-10-13,Lijnbaansgracht 120bg,Amsterdam,VV,Netherlands,9
+284,49,2018-10-16,Ordynacka 10,Warsaw,,Poland,11
+285,58,2018-10-25,12Community Centre,Delhi,,India,10
+286,27,2018-10-25,1033 N Park Ave,Tucson,AZ,USA,2
+287,23,2018-11-04,69 Salem Street,Boston,MA,USA,2
+288,17,2018-11-04,1 Microsoft Way,Redmond,WA,USA,11
+289,16,2018-11-06,1600 Amphitheatre Parkway,Mountain View,CA,USA,7
+290,17,2018-11-18,1 Microsoft Way,Redmond,WA,USA,5
+291,35,2018-11-19,Rua dos Campeoes Europeus de Viena 4350,Porto,,Portugal,3
+292,4,2018-11-21,Ullevalsveien 14,Oslo,,Norway,10
+293,14,2018-11-29,8210 111 ST NW,Edmonton,AB,Canada,5
+294,58,2018-12-02,12Community Centre,Delhi,,India,11
+295,33,2018-12-03,5112 48 Street,Yellowknife,NT,Canada,1
+296,1,2018-12-10,Av Brigadeiro Faria Lima 2170,Sao Jose dos Campos,SP,Brazil,13
+297,22,2018-12-11,120 S Orange Ave,Orlando,FL,USA,3
+298,12,2018-12-13,Praca Pio X 119,Rio de Janeiro,RJ,Brazil,9
+299,30,2018-12-14,230 Elgin Street,Ottawa,ON,Canada,6
+300,25,2018-12-15,319 N Frances Street,Madison,WI,USA,12
+301,34,2018-12-15,Rua da Assuncao 53,Lisbon,,Portugal,8
+302,40,2018-12-18,8 Rue Hanovre,Paris,,France,4
+303,28,2018-12-21,302 S 700 E,Salt Lake City,UT,USA,10
+304,56,2018-12-23,307 Macacha Guemes,Buenos Aires,,Argentina,7
+305,40,2018-12-26,8 Rue Hanovre,Paris,,France,15
+306,8,2019-01-01,Gretrystraat 63,Brussels,,Belgium,11
+307,26,2019-01-05,2211 W Berry Street,Fort Worth,TX,USA,10
+308,37,2019-01-06,Berger Strasse 10,Frankfurt,,Germany,11
+309,36,2019-01-14,Tauentzienstrasse 8,Berlin,,Germany,9
+310,22,2019-01-16,120 S Orange Ave,Orlando,FL,USA,9
+311,8,2019-01-18,Gretrystraat 63,Brussels,,Belgium,6
+312,42,2019-01-21,9 Place Louis Barthou,Bordeaux,,France,10
+313,30,2019-01-24,230 Elgin Street,Ottawa,ON,Canada,5
+314,43,2019-01-29,68 Rue Jouvence,Dijon,,France,10
+315,10,2019-01-30,Rua Dr Falcao Filho 155,Sao Paulo,SP,Brazil,5
+316,11,2019-02-03,Av Paulista 2022,Sao Paulo,SP,Brazil,2
+317,40,2019-02-14,8 Rue Hanovre,Paris,,France,12
+318,43,2019-02-19,68 Rue Jouvence,Dijon,,France,8
+319,50,2019-02-20,C San Bernardo 85,Madrid,,Spain,10
+320,58,2019-02-22,12Community Centre,Delhi,,India,17
+321,14,2019-02-23,8210 111 ST NW,Edmonton,AB,Canada,1
+322,21,2019-02-24,801 W 4th Street,Reno,NV,USA,10
+323,23,2019-03-03,69 Salem Street,Boston,MA,USA,8
+324,57,2019-03-03,Calle Lira 198,Santiago,,Chile,5
+325,33,2019-03-04,5112 48 Street,Yellowknife,NT,Canada,10
+326,52,2019-03-04,202 Hoxton Street,London,,United Kingdom,9
+327,49,2019-03-05,Ordynacka 10,Warsaw,,Poland,9
+328,10,2019-03-08,Rua Dr Falcao Filho 155,Sao Paulo,SP,Brazil,4
+329,9,2019-03-09,Sonder Boulevard 51,Copenhagen,,Denmark,1
+330,22,2019-03-13,120 S Orange Ave,Orlando,FL,USA,13
+331,25,2019-03-15,319 N Frances Street,Madison,WI,USA,6
+332,29,2019-03-15,796 Dundas Street West,Toronto,ON,Canada,10
+333,12,2019-03-21,Praca Pio X 119,Rio de Janeiro,RJ,Brazil,6
+334,53,2019-03-21,113 Lupus St,London,,United Kingdom,15
+335,57,2019-03-23,Calle Lira 198,Santiago,,Chile,15
+336,6,2019-03-31,Rilska 3174/6,Prague,,Czech Republic,16
+337,7,2019-04-03,Rotenturmstrasse 4 1010 Innere Stadt,Vienne,,Austria,10
+338,58,2019-04-03,12Community Centre,Delhi,,India,5
+339,36,2019-04-07,Tauentzienstrasse 8,Berlin,,Germany,8
+340,48,2019-04-08,Lijnbaansgracht 120bg,Amsterdam,VV,Netherlands,3
+341,5,2019-04-09,Klanova 9/506,Prague,,Czech Republic,12
+342,3,2019-04-13,1498 rue Belanger,Montreal,QC,Canada,3
+343,2,2019-04-13,Theodor-Heuss-Strasse 34,Stuttgart,,Germany,6
+344,3,2019-04-15,1498 rue Belanger,Montreal,QC,Canada,17
+345,50,2019-04-16,C San Bernardo 85,Madrid,,Spain,10
+346,40,2019-04-17,8 Rue Hanovre,Paris,,France,6
+347,44,2019-04-17,Porthaninkatu 9,Helsinki,,Finland,4
+348,35,2019-04-18,Rua dos Campeoes Europeus de Viena 4350,Porto,,Portugal,9
+349,37,2019-04-21,Berger Strasse 10,Frankfurt,,Germany,1
+350,44,2019-04-21,Porthaninkatu 9,Helsinki,,Finland,3
+351,57,2019-04-23,Calle Lira 198,Santiago,,Chile,10
+352,10,2019-04-23,Rua Dr Falcao Filho 155,Sao Paulo,SP,Brazil,1
+353,28,2019-04-28,302 S 700 E,Salt Lake City,UT,USA,10
+354,9,2019-05-02,Sonder Boulevard 51,Copenhagen,,Denmark,5
+355,43,2019-05-04,68 Rue Jouvence,Dijon,,France,7
+356,55,2019-05-04,421 Bourke Street,Sidney,NSW,Australia,7
+357,13,2019-05-08,Qe 7 Bloco G,Brasilia,DF,Brazil,3
+358,19,2019-05-12,1 Infinite Loop,Cupertino,CA,USA,7
+359,43,2019-05-12,68 Rue Jouvence,Dijon,,France,9
+360,45,2019-05-15,Erzsebet krt 58,Budapest,,Hungary,4
+361,5,2019-05-18,Klanova 9/506,Prague,,Czech Republic,2
+362,29,2019-05-24,796 Dundas Street West,Toronto,ON,Canada,20
+363,38,2019-05-24,Barbarossastrasse 19,Berlin,,Germany,3
+364,26,2019-05-26,2211 W Berry Street,Fort Worth,TX,USA,6
+365,28,2019-05-27,302 S 700 E,Salt Lake City,UT,USA,4
+366,26,2019-05-27,2211 W Berry Street,Fort Worth,TX,USA,9
+367,40,2019-05-29,8 Rue Hanovre,Paris,,France,8
+368,35,2019-05-30,Rua dos Campeoes Europeus de Viena 4350,Porto,,Portugal,2
+369,50,2019-05-31,C San Bernardo 85,Madrid,,Spain,10
+370,14,2019-06-01,8210 111 ST NW,Edmonton,AB,Canada,9
+371,14,2019-06-01,8210 111 ST NW,Edmonton,AB,Canada,1
+372,18,2019-06-01,627 Broadway,New York,NY,USA,14
+373,39,2019-06-01,4 Rue Milton,Paris,,France,4
+374,43,2019-06-03,68 Rue Jouvence,Dijon,,France,6
+375,35,2019-06-05,Rua dos Campeoes Europeus de Viena 4350,Porto,,Portugal,9
+376,5,2019-06-06,Klanova 9/506,Prague,,Czech Republic,4
+377,28,2019-06-09,302 S 700 E,Salt Lake City,UT,USA,3
+378,48,2019-06-13,Lijnbaansgracht 120bg,Amsterdam,VV,Netherlands,4
+379,54,2019-06-13,110 Raeburn Pl,Edinburgh ,,United Kingdom,12
+380,56,2019-06-14,307 Macacha Guemes,Buenos Aires,,Argentina,10
+381,56,2019-06-21,307 Macacha Guemes,Buenos Aires,,Argentina,13
+382,48,2019-06-22,Lijnbaansgracht 120bg,Amsterdam,VV,Netherlands,4
+383,23,2019-07-03,69 Salem Street,Boston,MA,USA,10
+384,50,2019-07-10,C San Bernardo 85,Madrid,,Spain,11
+385,42,2019-07-11,9 Place Louis Barthou,Bordeaux,,France,7
+386,26,2019-07-12,2211 W Berry Street,Fort Worth,TX,USA,5
+387,6,2019-07-15,Rilska 3174/6,Prague,,Czech Republic,6
+388,5,2019-07-16,Klanova 9/506,Prague,,Czech Republic,10
+389,16,2019-07-18,1600 Amphitheatre Parkway,Mountain View,CA,USA,17
+390,34,2019-07-19,Rua da Assuncao 53,Lisbon,,Portugal,3
+391,30,2019-07-20,230 Elgin Street,Ottawa,ON,Canada,4
+392,11,2019-07-24,Av Paulista 2022,Sao Paulo,SP,Brazil,8
+393,17,2019-07-25,1 Microsoft Way,Redmond,WA,USA,11
+394,31,2019-07-27,194A Chain Lake Drive,Halifax,NS,Canada,8
+395,24,2019-07-28,162 E Superior Street,Chicago,IL,USA,10
+396,42,2019-07-29,9 Place Louis Barthou,Bordeaux,,France,9
+397,36,2019-07-31,Tauentzienstrasse 8,Berlin,,Germany,7
+398,51,2019-08-03,Celsiusg 9,Stockholm,,Sweden,17
+399,51,2019-08-03,Celsiusg 9,Stockholm,,Sweden,12
+400,36,2019-08-06,Tauentzienstrasse 8,Berlin,,Germany,4
+401,46,2019-08-06,3 Chatham Street,Dublin,Dublin,Ireland,10
+402,54,2019-08-09,110 Raeburn Pl,Edinburgh ,,United Kingdom,9
+403,54,2019-08-10,110 Raeburn Pl,Edinburgh ,,United Kingdom,9
+404,31,2019-08-13,194A Chain Lake Drive,Halifax,NS,Canada,14
+405,6,2019-08-14,Rilska 3174/6,Prague,,Czech Republic,8
+406,10,2019-08-15,Rua Dr Falcao Filho 155,Sao Paulo,SP,Brazil,2
+407,57,2019-08-19,Calle Lira 198,Santiago,,Chile,10
+408,34,2019-08-20,Rua da Assuncao 53,Lisbon,,Portugal,6
+409,48,2019-08-24,Lijnbaansgracht 120bg,Amsterdam,VV,Netherlands,11
+410,7,2019-08-27,Rotenturmstrasse 4 1010 Innere Stadt,Vienne,,Austria,4
+411,9,2019-08-27,Sonder Boulevard 51,Copenhagen,,Denmark,2
+412,12,2019-08-28,Praca Pio X 119,Rio de Janeiro,RJ,Brazil,8
+413,47,2019-08-28,Via Degli Scipioni 43,Rome,RM,Italy,15
+414,54,2019-08-30,110 Raeburn Pl,Edinburgh ,,United Kingdom,10
+415,54,2019-08-31,110 Raeburn Pl,Edinburgh ,,United Kingdom,9
+416,5,2019-08-31,Klanova 9/506,Prague,,Czech Republic,1
+417,24,2019-09-01,162 E Superior Street,Chicago,IL,USA,10
+418,50,2019-09-01,C San Bernardo 85,Madrid,,Spain,1
+419,3,2019-09-02,1498 rue Belanger,Montreal,QC,Canada,10
+420,20,2019-09-05,541 Del Medio Avenue,Mountain View,CA,USA,10
+421,48,2019-09-05,Lijnbaansgracht 120bg,Amsterdam,VV,Netherlands,8
+422,53,2019-09-07,113 Lupus St,London,,United Kingdom,7
+423,21,2019-09-07,801 W 4th Street,Reno,NV,USA,11
+424,35,2019-09-09,Rua dos Campeoes Europeus de Viena 4350,Porto,,Portugal,2
+425,14,2019-09-13,8210 111 ST NW,Edmonton,AB,Canada,1
+426,37,2019-09-14,Berger Strasse 10,Frankfurt,,Germany,5
+427,55,2019-09-14,421 Bourke Street,Sidney,NSW,Australia,15
+428,43,2019-09-17,68 Rue Jouvence,Dijon,,France,4
+429,5,2019-09-17,Klanova 9/506,Prague,,Czech Republic,11
+430,55,2019-09-20,421 Bourke Street,Sidney,NSW,Australia,2
+431,8,2019-09-21,Gretrystraat 63,Brussels,,Belgium,10
+432,32,2019-09-23,696 Osborne Street,Winnipeg,MB,Canada,2
+433,33,2019-09-24,5112 48 Street,Yellowknife,NT,Canada,3
+434,26,2019-09-27,2211 W Berry Street,Fort Worth,TX,USA,10
+435,38,2019-09-28,Barbarossastrasse 19,Berlin,,Germany,6
+436,17,2019-10-02,1 Microsoft Way,Redmond,WA,USA,6
+437,54,2019-10-02,110 Raeburn Pl,Edinburgh ,,United Kingdom,10
+438,23,2019-10-04,69 Salem Street,Boston,MA,USA,11
+439,11,2019-10-08,Av Paulista 2022,Sao Paulo,SP,Brazil,7
+440,45,2019-10-08,Erzsebet krt 58,Budapest,,Hungary,3
+441,44,2019-10-26,Porthaninkatu 9,Helsinki,,Finland,7
+442,1,2019-11-05,Av Brigadeiro Faria Lima 2170,Sao Jose dos Campos,SP,Brazil,4
+443,20,2019-11-07,541 Del Medio Avenue,Mountain View,CA,USA,8
+444,52,2019-11-08,202 Hoxton Street,London,,United Kingdom,9
+445,40,2019-11-11,8 Rue Hanovre,Paris,,France,4
+446,49,2019-11-19,Ordynacka 10,Warsaw,,Poland,9
+447,12,2019-11-23,Praca Pio X 119,Rio de Janeiro,RJ,Brazil,11
+448,18,2019-11-27,627 Broadway,New York,NY,USA,10
+449,34,2019-11-27,Rua da Assuncao 53,Lisbon,,Portugal,17
+450,55,2019-12-04,421 Bourke Street,Sidney,NSW,Australia,7
+451,46,2019-12-13,3 Chatham Street,Dublin,Dublin,Ireland,1
+452,47,2019-12-18,Via Degli Scipioni 43,Rome,RM,Italy,8
+453,31,2019-12-19,194A Chain Lake Drive,Halifax,NS,Canada,5
+454,46,2019-12-21,3 Chatham Street,Dublin,Dublin,Ireland,15
+455,28,2019-12-24,302 S 700 E,Salt Lake City,UT,USA,5
+456,13,2019-12-24,Qe 7 Bloco G,Brasilia,DF,Brazil,10
+457,37,2019-12-25,Berger Strasse 10,Frankfurt,,Germany,15
+458,42,2019-12-26,9 Place Louis Barthou,Bordeaux,,France,1
+459,50,2019-12-26,C San Bernardo 85,Madrid,,Spain,2
+460,20,2019-12-28,541 Del Medio Avenue,Mountain View,CA,USA,11
+461,11,2019-12-29,Av Paulista 2022,Sao Paulo,SP,Brazil,8
+462,7,2019-12-29,Rotenturmstrasse 4 1010 Innere Stadt,Vienne,,Austria,9
+463,34,2019-12-30,Rua da Assuncao 53,Lisbon,,Portugal,12
+464,1,2019-12-31,Av Brigadeiro Faria Lima 2170,Sao Jose dos Campos,SP,Brazil,4
+465,21,2020-01-12,801 W 4th Street,Reno,NV,USA,7
+466,30,2020-01-19,230 Elgin Street,Ottawa,ON,Canada,4
+467,5,2020-01-20,Klanova 9/506,Prague,,Czech Republic,10
+468,25,2020-01-22,319 N Frances Street,Madison,WI,USA,16
+469,14,2020-01-28,8210 111 ST NW,Edmonton,AB,Canada,1
+470,9,2020-01-29,Sonder Boulevard 51,Copenhagen,,Denmark,2
+471,35,2020-01-30,Rua dos Campeoes Europeus de Viena 4350,Porto,,Portugal,1
+472,7,2020-01-31,Rotenturmstrasse 4 1010 Innere Stadt,Vienne,,Austria,3
+473,58,2020-02-02,12Community Centre,Delhi,,India,4
+474,4,2020-02-04,Ullevalsveien 14,Oslo,,Norway,7
+475,11,2020-02-06,Av Paulista 2022,Sao Paulo,SP,Brazil,8
+476,6,2020-02-11,Rilska 3174/6,Prague,,Czech Republic,11
+477,5,2020-02-15,Klanova 9/506,Prague,,Czech Republic,7
+478,28,2020-02-21,302 S 700 E,Salt Lake City,UT,USA,17
+479,46,2020-02-21,3 Chatham Street,Dublin,Dublin,Ireland,17
+480,44,2020-02-22,Porthaninkatu 9,Helsinki,,Finland,10
+481,43,2020-02-25,68 Rue Jouvence,Dijon,,France,4
+482,10,2020-02-26,Rua Dr Falcao Filho 155,Sao Paulo,SP,Brazil,8
+483,15,2020-02-29,700 W Pender Street,Vancouver,BC,Canada,5
+484,47,2020-03-02,Via Degli Scipioni 43,Rome,RM,Italy,3
+485,37,2020-03-05,Berger Strasse 10,Frankfurt,,Germany,10
+486,18,2020-03-05,627 Broadway,New York,NY,USA,9
+487,27,2020-03-11,1033 N Park Ave,Tucson,AZ,USA,10
+488,7,2020-03-13,Rotenturmstrasse 4 1010 Innere Stadt,Vienne,,Austria,14
+489,43,2020-03-14,68 Rue Jouvence,Dijon,,France,3
+490,19,2020-03-14,1 Infinite Loop,Cupertino,CA,USA,9
+491,51,2020-03-24,Celsiusg 9,Stockholm,,Sweden,2
+492,54,2020-03-25,110 Raeburn Pl,Edinburgh ,,United Kingdom,5
+493,41,2020-03-26,11 Place Bellecour,Lyon,,France,4
+494,26,2020-03-31,2211 W Berry Street,Fort Worth,TX,USA,10
+495,10,2020-04-01,Rua Dr Falcao Filho 155,Sao Paulo,SP,Brazil,1
+496,21,2020-04-01,801 W 4th Street,Reno,NV,USA,8
+497,34,2020-04-01,Rua da Assuncao 53,Lisbon,,Portugal,7
+498,13,2020-04-02,Qe 7 Bloco G,Brasilia,DF,Brazil,4
+499,17,2020-04-03,1 Microsoft Way,Redmond,WA,USA,10
+500,36,2020-04-07,Tauentzienstrasse 8,Berlin,,Germany,9
+501,11,2020-04-09,Av Paulista 2022,Sao Paulo,SP,Brazil,13
+502,53,2020-04-10,113 Lupus St,London,,United Kingdom,4
+503,39,2020-04-11,4 Rue Milton,Paris,,France,10
+504,6,2020-04-12,Rilska 3174/6,Prague,,Czech Republic,11
+505,19,2020-04-14,1 Infinite Loop,Cupertino,CA,USA,1
+506,58,2020-04-14,12Community Centre,Delhi,,India,16
+507,2,2020-04-20,Theodor-Heuss-Strasse 34,Stuttgart,,Germany,1
+508,38,2020-04-22,Barbarossastrasse 19,Berlin,,Germany,9
+509,48,2020-04-27,Lijnbaansgracht 120bg,Amsterdam,VV,Netherlands,7
+510,25,2020-04-28,319 N Frances Street,Madison,WI,USA,10
+511,24,2020-05-01,162 E Superior Street,Chicago,IL,USA,7
+512,43,2020-05-02,68 Rue Jouvence,Dijon,,France,9
+513,41,2020-05-03,11 Place Bellecour,Lyon,,France,11
+514,25,2020-05-14,319 N Frances Street,Madison,WI,USA,3
+515,23,2020-05-15,69 Salem Street,Boston,MA,USA,3
+516,23,2020-05-16,69 Salem Street,Boston,MA,USA,2
+517,3,2020-05-16,1498 rue Belanger,Montreal,QC,Canada,9
+518,22,2020-05-22,120 S Orange Ave,Orlando,FL,USA,2
+519,32,2020-05-22,696 Osborne Street,Winnipeg,MB,Canada,7
+520,5,2020-05-26,Klanova 9/506,Prague,,Czech Republic,10
+521,13,2020-05-27,Qe 7 Bloco G,Brasilia,DF,Brazil,4
+522,22,2020-05-27,120 S Orange Ave,Orlando,FL,USA,8
+523,50,2020-05-29,C San Bernardo 85,Madrid,,Spain,8
+524,41,2020-06-01,11 Place Bellecour,Lyon,,France,5
+525,30,2020-06-02,230 Elgin Street,Ottawa,ON,Canada,10
+526,5,2020-06-08,Klanova 9/506,Prague,,Czech Republic,20
+527,57,2020-06-09,Calle Lira 198,Santiago,,Chile,11
+528,50,2020-06-10,C San Bernardo 85,Madrid,,Spain,16
+529,24,2020-06-12,162 E Superior Street,Chicago,IL,USA,14
+530,14,2020-06-22,8210 111 ST NW,Edmonton,AB,Canada,1
+531,44,2020-06-22,Porthaninkatu 9,Helsinki,,Finland,12
+532,13,2020-06-23,Qe 7 Bloco G,Brasilia,DF,Brazil,14
+533,11,2020-06-24,Av Paulista 2022,Sao Paulo,SP,Brazil,13
+534,10,2020-06-25,Rua Dr Falcao Filho 155,Sao Paulo,SP,Brazil,6
+535,56,2020-07-05,307 Macacha Guemes,Buenos Aires,,Argentina,1
+536,1,2020-07-06,Av Brigadeiro Faria Lima 2170,Sao Jose dos Campos,SP,Brazil,6
+537,12,2020-07-07,Praca Pio X 119,Rio de Janeiro,RJ,Brazil,8
+538,31,2020-07-10,194A Chain Lake Drive,Halifax,NS,Canada,9
+539,46,2020-07-12,3 Chatham Street,Dublin,Dublin,Ireland,1
+540,37,2020-07-12,Berger Strasse 10,Frankfurt,,Germany,11
+541,58,2020-07-15,12Community Centre,Delhi,,India,3
+542,34,2020-07-18,Rua da Assuncao 53,Lisbon,,Portugal,11
+543,17,2020-07-23,1 Microsoft Way,Redmond,WA,USA,3
+544,1,2020-07-24,Av Brigadeiro Faria Lima 2170,Sao Jose dos Campos,SP,Brazil,9
+545,33,2020-07-26,5112 48 Street,Yellowknife,NT,Canada,8
+546,32,2020-07-30,696 Osborne Street,Winnipeg,MB,Canada,7
+547,41,2020-08-01,11 Place Bellecour,Lyon,,France,10
+548,30,2020-08-02,230 Elgin Street,Ottawa,ON,Canada,11
+549,2,2020-08-10,Theodor-Heuss-Strasse 34,Stuttgart,,Germany,11
+550,42,2020-08-12,9 Place Louis Barthou,Bordeaux,,France,10
+551,16,2020-08-18,1600 Amphitheatre Parkway,Mountain View,CA,USA,11
+552,30,2020-08-19,230 Elgin Street,Ottawa,ON,Canada,6
+553,7,2020-08-26,Rotenturmstrasse 4 1010 Innere Stadt,Vienne,,Austria,5
+554,30,2020-08-27,230 Elgin Street,Ottawa,ON,Canada,9
+555,55,2020-09-04,421 Bourke Street,Sidney,NSW,Australia,2
+556,21,2020-09-04,801 W 4th Street,Reno,NV,USA,11
+557,2,2020-09-08,Theodor-Heuss-Strasse 34,Stuttgart,,Germany,10
+558,17,2020-09-11,1 Microsoft Way,Redmond,WA,USA,11
+559,32,2020-09-11,696 Osborne Street,Winnipeg,MB,Canada,6
+560,5,2020-09-11,Klanova 9/506,Prague,,Czech Republic,9
+561,23,2020-09-12,69 Salem Street,Boston,MA,USA,7
+562,27,2020-09-17,1033 N Park Ave,Tucson,AZ,USA,9
+563,5,2020-09-19,Klanova 9/506,Prague,,Czech Republic,2
+564,15,2020-09-20,700 W Pender Street,Vancouver,BC,Canada,6
+565,53,2020-09-23,113 Lupus St,London,,United Kingdom,10
+566,37,2020-09-27,Berger Strasse 10,Frankfurt,,Germany,5
+567,15,2020-09-27,700 W Pender Street,Vancouver,BC,Canada,8
+568,35,2020-10-01,Rua dos Campeoes Europeus de Viena 4350,Porto,,Portugal,7
+569,47,2020-10-06,Via Degli Scipioni 43,Rome,RM,Italy,1
+570,52,2020-10-07,202 Hoxton Street,London,,United Kingdom,3
+571,51,2020-10-09,Celsiusg 9,Stockholm,,Sweden,3
+572,34,2020-10-13,Rua da Assuncao 53,Lisbon,,Portugal,5
+573,27,2020-10-16,1033 N Park Ave,Tucson,AZ,USA,11
+574,49,2020-10-17,Ordynacka 10,Warsaw,,Poland,11
+575,15,2020-10-19,700 W Pender Street,Vancouver,BC,Canada,4
+576,45,2020-10-19,Erzsebet krt 58,Budapest,,Hungary,6
+577,28,2020-10-20,302 S 700 E,Salt Lake City,UT,USA,9
+578,25,2020-10-21,319 N Frances Street,Madison,WI,USA,12
+579,6,2020-10-23,Rilska 3174/6,Prague,,Czech Republic,11
+580,24,2020-10-25,162 E Superior Street,Chicago,IL,USA,10
+581,32,2020-10-26,696 Osborne Street,Winnipeg,MB,Canada,14
+582,5,2020-10-30,Klanova 9/506,Prague,,Czech Republic,18
+583,22,2020-10-30,120 S Orange Ave,Orlando,FL,USA,11
+584,30,2020-10-31,230 Elgin Street,Ottawa,ON,Canada,1
+585,40,2020-10-31,8 Rue Hanovre,Paris,,France,9
+586,55,2020-11-01,421 Bourke Street,Sidney,NSW,Australia,11
+587,12,2020-11-07,Praca Pio X 119,Rio de Janeiro,RJ,Brazil,2
+588,5,2020-11-12,Klanova 9/506,Prague,,Czech Republic,1
+589,41,2020-11-12,11 Place Bellecour,Lyon,,France,11
+590,51,2020-11-17,Celsiusg 9,Stockholm,,Sweden,9
+591,16,2020-11-20,1600 Amphitheatre Parkway,Mountain View,CA,USA,7
+592,2,2020-11-21,Theodor-Heuss-Strasse 34,Stuttgart,,Germany,8
+593,12,2020-11-23,Praca Pio X 119,Rio de Janeiro,RJ,Brazil,11
+594,31,2020-11-24,194A Chain Lake Drive,Halifax,NS,Canada,3
+595,23,2020-11-27,69 Salem Street,Boston,MA,USA,8
+596,42,2020-11-27,9 Place Louis Barthou,Bordeaux,,France,6
+597,13,2020-11-28,Qe 7 Bloco G,Brasilia,DF,Brazil,7
+598,26,2020-12-04,2211 W Berry Street,Fort Worth,TX,USA,5
+599,59,2020-12-06,3 Raj Bhavan Road,Bangalore,,India,8
+600,29,2020-12-08,796 Dundas Street West,Toronto,ON,Canada,5
+601,44,2020-12-08,Porthaninkatu 9,Helsinki,,Finland,11
+602,21,2020-12-09,801 W 4th Street,Reno,NV,USA,7
+603,26,2020-12-10,2211 W Berry Street,Fort Worth,TX,USA,5
+604,46,2020-12-12,3 Chatham Street,Dublin,Dublin,Ireland,18
+605,35,2020-12-17,Rua dos Campeoes Europeus de Viena 4350,Porto,,Portugal,4
+606,15,2020-12-18,700 W Pender Street,Vancouver,BC,Canada,12
+607,59,2020-12-19,3 Raj Bhavan Road,Bangalore,,India,5
+608,49,2020-12-20,Ordynacka 10,Warsaw,,Poland,1
+609,14,2020-12-20,8210 111 ST NW,Edmonton,AB,Canada,3
+610,55,2020-12-21,421 Bourke Street,Sidney,NSW,Australia,7
+611,52,2020-12-27,202 Hoxton Street,London,,United Kingdom,2
+612,33,2020-12-27,5112 48 Street,Yellowknife,NT,Canada,12
+613,20,2020-12-29,541 Del Medio Avenue,Mountain View,CA,USA,9
+614,53,2020-12-30,113 Lupus St,London,,United Kingdom,13
